@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/static/js/main.f153d34d.chunk.js",
+    "main.js.map": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/static/js/main.f153d34d.chunk.js.map",
+    "runtime-main.js": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/static/js/runtime-main.44406fc1.js",
+    "runtime-main.js.map": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/static/js/runtime-main.44406fc1.js.map",
+    "static/js/2.a83745c5.chunk.js": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/static/js/2.a83745c5.chunk.js",
+    "static/js/2.a83745c5.chunk.js.map": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/static/js/2.a83745c5.chunk.js.map",
+    "index.html": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/index.html",
+    "precache-manifest.b5f3717a0896238c80557313eb08442f.js": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/precache-manifest.b5f3717a0896238c80557313eb08442f.js",
+    "service-worker.js": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/service-worker.js",
+    "static/js/2.a83745c5.chunk.js.LICENSE": "/BotFramework-WebChat/06.recomposing-ui/d.plain-ui/static/js/2.a83745c5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44406fc1.js",
+    "static/js/2.a83745c5.chunk.js",
+    "static/js/main.f153d34d.chunk.js"
+  ]
+}

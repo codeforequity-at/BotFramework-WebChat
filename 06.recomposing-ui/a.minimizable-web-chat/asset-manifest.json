@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/css/main.13626e63.chunk.css",
+    "main.js": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/js/main.0b0b57a1.chunk.js",
+    "main.js.map": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/js/main.0b0b57a1.chunk.js.map",
+    "runtime-main.js": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/js/runtime-main.0e5c13f8.js",
+    "runtime-main.js.map": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/js/runtime-main.0e5c13f8.js.map",
+    "static/js/2.7abfeff6.chunk.js": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/js/2.7abfeff6.chunk.js",
+    "static/js/2.7abfeff6.chunk.js.map": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/js/2.7abfeff6.chunk.js.map",
+    "index.html": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/index.html",
+    "precache-manifest.e52cce1ce382f53dd4d5820b7c99912a.js": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/precache-manifest.e52cce1ce382f53dd4d5820b7c99912a.js",
+    "service-worker.js": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/service-worker.js",
+    "static/css/main.13626e63.chunk.css.map": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/css/main.13626e63.chunk.css.map",
+    "static/js/2.7abfeff6.chunk.js.LICENSE": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/js/2.7abfeff6.chunk.js.LICENSE",
+    "static/media/WebPage.jpg": "/BotFramework-WebChat/06.recomposing-ui/a.minimizable-web-chat/static/media/WebPage.d6d7485a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e5c13f8.js",
+    "static/js/2.7abfeff6.chunk.js",
+    "static/css/main.13626e63.chunk.css",
+    "static/js/main.0b0b57a1.chunk.js"
+  ]
+}
